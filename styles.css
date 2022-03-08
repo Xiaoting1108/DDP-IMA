@@ -60,7 +60,7 @@ p.caption{
 /*Footer section*/
 
 footer{
-	background-color: black;
+	background-color: lightyellow;
 	text-align: center;
 	padding: 50px;
 }
@@ -77,5 +77,5 @@ footer a{
 
 footer a:hover{
 	background-color: white;
-	color: black;
+	color: darkorange;
 }
