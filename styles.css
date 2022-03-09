@@ -67,12 +67,12 @@ footer{
 
 footer p{
 	margin: 0;
-	color:  white;
+	color:  darkorange;
 	font-size: 20px;
 }
 
 footer a{
-	color: white;
+	color: lightblue;
 }
 
 footer a:hover{
